@@ -8,6 +8,6 @@ I always loved tinkering with electronics, and I am self-taught. Since the age o
 
 ✔️ While at Brooklyn Tech, I was hired as an intern at Con Edison as an Engineering Aide. I learned to work with processes involved in providing a utility to the public while developing programmatic solutions to streamline specific workflows.
 
-✔️ While at Stony Brook, I was hired as a research assistant in Android App Security. I am learning how to detect security culnerabilities in android applications.
+✔️ While at Stony Brook, I was hired as a research assistant in Android App Security. I am learning how to detect security vulnerabilities in android applications and report them to developers.
 
 Currently, I am pursuing a BS in Computer Science & Applied Mathematics/Statistics at Stony Brook University. I plan to graduate in May 2024. I am seeking internship opportunities in the NYC area.
