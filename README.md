@@ -1,13 +1,9 @@
 Hi, my name is Soroush.
 
-I always loved tinkering with electronics, and I am self-taught. Since the age of 13, I converted an RC-control car to become more aware of its surroundings to drive on a line drawn on the ground. I am interested in continuing to learn and deliver high value to every team.
+I always loved tinkering with electronics, and I am self-taught. Since the age of 13, I have been programming, starting with Arduino (C/C++) and later transitioning into Java, Python, C, and JavaScript. I am interested in continuing to learn and deliver high value to every team.
 
-✔️ Throughout my high school career, I picked up Python and Arduino while learning RobotC, and LabVIEW at Brooklyn Tech. I did several exciting projects during this time, and I am very proud of Rubik's Cube Solving Robot in under 30 seconds.
+For the past 4 years, I have been working at Con Edison as a Software Engineering Co-op. I learned to work with processes involved in providing a utility to the public while developing programmatic solutions to streamline specific workflows. I currently manage many projects at the Company including the full redesign of the department's website.
 
-✔️ From an academic perspective at Brooklyn Tech, I took AP Physics, AP Calculus, and AP Computer Science Principles plus college-level courses. I started at Stony Brook University as a Sophomore.
+While at Stony Brook, I was hired as a Research Assistant in Android App Security. I have learned how to detect security vulnerabilities in android applications and report them to developers. I was given credit in the Research Paper published on the COVID Exposure Notification Apps we analyzed.
 
-✔️ While at Brooklyn Tech, I was hired as an intern at Con Edison as an Engineering Aide. I learned to work with processes involved in providing a utility to the public while developing programmatic solutions to streamline specific workflows.
-
-✔️ While at Stony Brook, I was hired as a research assistant in Android App Security. I am learning how to detect security vulnerabilities in android applications and report them to developers.
-
-Currently, I am pursuing a BS in Computer Science & Applied Mathematics/Statistics at Stony Brook University. I plan to graduate in May 2024. I am seeking internship opportunities in the NYC area.
+Currently, I am pursuing an accelerated BS/MS in Computer Science with a concentration in Data Science & a BS in Applied Mathematics/Statistics at Stony Brook University. I plan to graduate with my Bachelor's in Fall 2023 and my Masters in Fall 2024. I am seeking internship opportunities in the NYC area.
